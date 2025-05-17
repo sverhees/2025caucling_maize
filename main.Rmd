@@ -45,7 +45,7 @@ bib_clean <- bibmaize %>%
 
 ## Introduction
 
-This is a supplement to my poster for the Caucasian Linguistics conference of 11--13 Jun 2025 in Lyon (France). On this page you can view an interactive version of the map on my poster, as well as an additional map, and you can search the full dataset used for this study. You can also download the full dataset from the repository. In the repository, you can also find a pdf of my poster.
+This is a supplement to my poster for the Caucasian Linguistics conference of 11--13 Jun 2025 in Lyon (France). On this page you can view an interactive version of the map on my poster, as well as an additional map, and you can search the full dataset used for this study. You can also download the full dataset and a pdf of my poster from the repository.
 
 ## Maps
 
